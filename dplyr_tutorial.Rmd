@@ -15,11 +15,13 @@ set.seed(1014)
 
 When working with data you must:
 
+* use python
+
 * Figure out what you want to do.
 
 * Describe those tasks in the form of a computer program.
 
-* Execute the program.
+* Execute the programmer.
 
 The dplyr package makes these steps fast and easy:
 
